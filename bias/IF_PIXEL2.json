@@ -1,0 +1,17 @@
+{
+    "if": "Pixel 2 IF.json",
+    "lmin": "07",
+    "lmax": "07",
+    "btadd": "aa:bb:cc:dd:ee:ff",
+    "btname": "BIASing",
+    "lmpver": "10",
+    "companyid": "15",
+    "subversion": "24841",
+    "lmpfp0": "fffe8ffed83f5b87",
+    "lmpfp1": "0f00000000000000",
+    "lmpfp2": "4503000000000000",
+    "iocaps": "01",
+    "authreq": "03",
+    "oobdata": "0",
+    "deviceclass": "0c025a"
+}

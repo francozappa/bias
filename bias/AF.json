@@ -1,0 +1,20 @@
+{
+    "af": "CYW920819",
+    "arch": "ARM32-le-thumbonly",
+    "hci": "1",
+    "addrlmin": "0x20118a",
+    "addrlmax": "0x20118b",
+    "addrbtname": "0x200f48",
+    "addrcompanyid": "0x205c28",
+    "addrsubversion": "0x200f3c",
+    "addrlmpfp0": "0x200f24",
+    "addrlmpfp1": "0x200f2c",
+    "addrlmpfp2": "0x200f34",
+    "addrcapsauth": "0x20113d",
+    "addroobdata": "0x20113e",
+    "addrdeviceclass": "0x0c24",
+    "addrcode1": "0x2006d0",
+    "addrpatch1": "0x2e7a8",
+    "addrpatch2": "0x11a58",
+    "addrpatch3": "0x11ce4"
+}
