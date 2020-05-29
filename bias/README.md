@@ -2,12 +2,14 @@
 
 ## Impersonate a Pixel 2 using a Linux laptop and a CYW920819 devboard
 
-The attack setup assumes that the Linux laptop is able to enable diagnostic mode on the devboard,
-parse diagnostic messages from the CYW920819 devboard, and run
-[internalblue](https://github.com/seemoo-lab/internalblue).
+The attack setup assumes that the Linux laptop is able to enable diagnostic
+mode on the devboard, parse diagnostic messages from the CYW920819 devboard,
+and run [internalblue](https://github.com/seemoo-lab/internalblue).
+This can be accomplished by using a vanilla
+`linux-4.14.111` kernel compiled with the modifications that we provide
+[here](https://github.com/francozappa/bias/tree/master/linux-4.14.111).
 
-To run the attacks while impersonating a Pixel 2follow those steps:
-
+To run the attacks while impersonating a Pixel 2 follow those steps:
 * Open `IF_PIXEL2`
     * Change the `btadd` to the Bluetooth address of the impersonated device
     * Change the `btname` to the Bluetooth name of the impersonated device
