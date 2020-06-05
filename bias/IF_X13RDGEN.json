@@ -1,0 +1,18 @@
+{
+    "if": "X1 3rd gen IF.json",
+    "lmin": "07",
+    "lmax": "07",
+    "btadd": "aa:bb:cc:dd:ee:ff",
+    "btname": "BIASing",
+    "lmpver": "8",
+    "companyid": "2",
+    "subversion": "4096",
+    "lmpfp0": "fffe0ffedbff7b87",
+    "lmpfp1": "0300000000000000",
+    "lmpfp2": "3008000000000000",
+    "iocaps": "01",
+    "authreq": "03",
+    "oobdata": "0",
+    "deviceclass": "1835276"
+}
+
