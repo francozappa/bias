@@ -1,0 +1,17 @@
+{
+    "if": "Nexus 5 IF.json",
+    "lmin": "07",
+    "lmax": "07",
+    "btadd": "aa:bb:cc:dd:ee:ff",
+    "btname": "BIASing",
+    "lmpver": "7",
+    "companyid": "15",
+    "subversion": "24841",
+    "lmpfp0": "bffecffedbff7b8f",
+    "lmpfp1": "0700000000000000",
+    "lmpfp2": "3008000000000000",
+    "iocaps": "01",
+    "authreq": "03",
+    "oobdata": "0",
+    "deviceclass": "0c025a"
+}
