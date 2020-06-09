@@ -7,5 +7,11 @@ Repository about [Bluetooth Impersonation AttackS (BIAS)](https://francozappa.gi
 * [Code to validate the legacy authentication procedure](https://github.com/francozappa/bias/tree/master/la)
 * [Code to validate the secure authentication procedure](https://github.com/francozappa/bias/tree/master/sa)
 
+Related work:
+
+* [BIAS: Bluetooth Impersonatoin AttackS](https://francozappa.github.io/publication/bias/) [S&P20]
+* [The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation of Bluetooth BR/EDR](https://francozappa.github.io/publication/knob/) [SEC19]
+
+
 I'd like to thank Nils Glörfeld for his contributions to reverse-engineer
 and patch the CYW920819 development board's firmware, and to patch the Linux kernel.
