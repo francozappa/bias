@@ -4,6 +4,9 @@ Repository about [Bluetooth Impersonation AttackS (BIAS)](https://francozappa.gi
 
 * [Instruction to perform the BIAS attacks](https://github.com/francozappa/bias/tree/master/bias)
 * [Code to patch linux-4.14.111 to enable H4 parsing](https://github.com/francozappa/bias/tree/master/linux-4.14.111)
+    * Make sure to install the relevant kernel modules to interface with the
+        devboard. For example, USB serial drivers and device drivers for the
+        Bluetooth subsystem.
 * [Code to validate the legacy authentication procedure](https://github.com/francozappa/bias/tree/master/la)
 * [Code to validate the secure authentication procedure](https://github.com/francozappa/bias/tree/master/sa)
 
